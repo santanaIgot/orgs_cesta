@@ -9,8 +9,8 @@ export default function App() {
     //view funciona como estrutura xml
     //View é um componente, text e Status bar
     // safe area cria uma barra nas bordas superiores dos app mobile
+    
     <SafeAreaView>
-      
       <StatusBar/>
       <Cesta/>
     </SafeAreaView>
